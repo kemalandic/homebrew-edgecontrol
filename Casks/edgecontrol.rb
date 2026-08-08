@@ -1,6 +1,6 @@
 cask "edgecontrol" do
-  version "2.2.0"
-  sha256 "8f954479cc7535579fc8825170167b8303095fea56df7ec9fe31503c88a69033"
+  version "2.3.0"
+  sha256 "b270a8441daf99deff0eba23c73a1fd852a788f005014c02725ce6905dd38953"
 
   url "https://github.com/kemalandic/edgecontrol/releases/download/v#{version}/EdgeControl.dmg"
   name "EdgeControl"
