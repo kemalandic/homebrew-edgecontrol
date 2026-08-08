@@ -7,7 +7,7 @@ cask "edgecontrol" do
   desc "Native macOS system dashboard for any display — XENEON EDGE, iPad, monitors"
   homepage "https://github.com/kemalandic/edgecontrol"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "EdgeControl.app"
 
